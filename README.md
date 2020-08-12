@@ -1,1 +1,1 @@
-# BME-sensor-arduino-interface
+# BME680-sensor-arduino-interface
